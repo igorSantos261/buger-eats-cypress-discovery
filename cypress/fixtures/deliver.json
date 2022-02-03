@@ -1,0 +1,63 @@
+{
+    "signup":{
+        "nome": "Igor Santos", 
+        "cpf": "00000014125", 
+        "email": "teste@teste.com", 
+        "whatsapp":"81999999999",
+        "endereco": { 
+            "cep": "52221140",
+            "rua": "Rua André Bezerra", 
+            "numero": "69",
+            "complemento": "casa 062",
+            "bairro": "Cajueiro",
+            "cidade_uf": "Recife/PE"
+
+        },
+
+        "metodo_entregador": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+
+    },
+
+    "cpf_invalid":{
+        "nome": "Juan Santos", 
+        "cpf": "01236578AAA", 
+        "email": "teste123@teste.com", 
+        "whatsapp":"81999999999",
+        "endereco": { 
+            "cep": "52221140",
+            "rua": "Rua André Bezerra", 
+            "numero": "314",
+            "complemento": "casa 062",
+            "bairro": "Cajueiro",
+            "cidade_uf": "Recife/PE"
+
+        },
+
+        "metodo_entregador": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+
+    },
+
+    "email_invalid":{
+        "nome": "Igor Santos", 
+        "cpf": "00000014125", 
+        "email": "teste.com.br", 
+        "whatsapp":"81999999999",
+        "endereco": { 
+            "cep": "52221140",
+            "rua": "Rua André Bezerra", 
+            "numero": "69",
+            "complemento": "casa 062",
+            "bairro": "Cajueiro",
+            "cidade_uf": "Recife/PE"
+
+        },
+
+        "metodo_entregador": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+
+    }
+
+
+}
